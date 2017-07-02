@@ -1,0 +1,15 @@
+E:\My Program\WPF\SAP Music Player\SAP Music Player\bin\Debug\SAP Music Player.exe
+E:\My Program\WPF\SAP Music Player\SAP Music Player\bin\Debug\SAP Music Player.pdb
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\MainWindow.baml
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\UI\diaImmortalObj.baml
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\MainWindow.g.cs
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\UI\diaImmortalObj.g.cs
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\App.g.cs
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP Music Player_MarkupCompile.cache
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP Music Player.g.resources
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP_Music_Player.Properties.Resources.resources
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP Music Player.csproj.GenerateResource.Cache
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP Music Player.exe
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP Music Player.pdb
+E:\My Program\WPF\SAP Music Player\SAP Music Player\obj\x86\Debug\SAP Music Player.csprojResolveAssemblyReference.cache
+E:\My Program\WPF\SAP Music Player\SAP Music Player\bin\Debug\Microsoft.Practices.Prism.dll

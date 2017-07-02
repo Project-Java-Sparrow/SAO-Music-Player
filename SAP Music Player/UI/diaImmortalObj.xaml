@@ -1,0 +1,10 @@
+﻿<Window x:Class="SAP_Music_Player.UI.diaImmortalObj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="diaImmortalObj" Height="126" Width="300" AllowsTransparency="True" WindowStyle="None" Background="Transparent">
+    <Grid>
+        
+        
+        <Image Source="E:\My Program\WPF\SAP Music Player\SAP Music Player\RES\UI\BK\immortal.png" />
+    </Grid>
+</Window>
